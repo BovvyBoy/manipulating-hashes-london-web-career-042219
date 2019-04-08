@@ -23,7 +23,7 @@ def first_challenge
 #  end
 #end
 contacts["Freddy Mercury"]
-:favorite_icecream_flavors == strawberry
+favorite_icecream_flavors == strawberry
 end
 
   #remember to return your newly altered contacts hash!
